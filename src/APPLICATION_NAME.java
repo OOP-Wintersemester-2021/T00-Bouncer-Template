@@ -6,10 +6,10 @@ public class BouncerAlsBergsteiger extends BouncerApp {
 
     @Override
     public void bounce() {
-        loadMap("$MAP");
+        loadMap("MAP");
     }
 
     public static void main(String[] args) {
-        BouncerLauncher.launch("$APPLICATION_NAME");
+        BouncerLauncher.launch("APPLICATION");
     }
 }
