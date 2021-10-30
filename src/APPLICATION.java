@@ -2,7 +2,7 @@ import de.ur.mi.bouncer.apps.BouncerApp;
 import de.ur.mi.bouncer.apps.BouncerLauncher;
 
 
-public class BouncerAlsBergsteiger extends BouncerApp {
+public class APPLICATION extends BouncerApp {
 
     @Override
     public void bounce() {
